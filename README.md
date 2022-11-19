@@ -76,5 +76,8 @@ Exemplos:<BR>
 ### Botão Divisão
 <img src="btn-div.png">
 
+## Blocos
+<img src="blocos.png">
+
 ### E-mail:
 dalmosilvamendes@gmail.com
