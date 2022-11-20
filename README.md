@@ -6,44 +6,40 @@ Calculadora Básica IBR - Botões e Logo.
 
 ## Passo a Passo da Calculadora Básica IBR <BR>
 
-1 - Criar um pasta com nome Calculadora. <BR>
+1 - Criar uma pasta com nome Calculadora. <BR>
 
-2 - Criar 4 botões no paint com tamanho de 60x47 px formato png com os nomes: <BR>
-  btn-ad, btn-sub, btn-mult e btn-div. Observação: Salvar na pasta Calculadora. <BR>
-  Ou Baixar no link: https://github.com/DalmoMendes/calc-ibr. <BR>
+2 - Criar 4 botões no Paint com tamanho de 60x47 px formato png com os nomes:<BR>
+* btn-ad, btn-sub, btn-mult e btn-div. <BR>
+* Observação: Salvar na pasta Calculadora.<BR>
+* Ou baixar os botões no link:  https://github.com/DalmoMendes/calc-ibr<BR>
 
-3 - Abrir o scratch2.0 e salvar o projeto na pasta Calculadora com o nome:<BR>
-  Calc-6C-seunome.<BR>
-
-3.1 Observação: Salve as alterações a cada mudança. <BR>
-3.2 apagar o ator 1: gatinho. <BR>
+3 - Abrir o scratch2.0 e salvar o projeto na pasta Calculadora com o nome: Calc-6C-seunome.<BR>
+* 3.1 Observação: Salve as alterações a cada mudança.<BR>
+* 3.2 apagar o ator 1: gatinho.<BR>
 
 4 - Inserir os botões no projeto:<BR>
 
-5 - No Palco, Aba Panos de fundo:<BR>
-    Digitar o Título no topo da tela: Calculadora Básica IBR<BR>
+5 - No Palco, Aba “Panos de Fundo”: <BR>
+* Digitar o Título no topo da tela: Calculadora Básica IBR<BR>
+* Digitar nome da turma e alunos na base: Turma: 6A, Ana, Maria, Paulo, Alex e Marcos<BR>
 
-6 - Digitar nome da turma e alunos na base.<BR>
+6 - Organizar os botões e verificar a visualização das informações na tela.<BR>
 
-6.1 Organizar os botões e verificar a visualização das informações na tela.<BR>
+7 - Criar variáveis: N1, N2 e Resultado. Posicionar entre o Título e Botões.<BR>
 
-7. Criar variáveis: N1, N2 e Resultado. <BR>
-	Posicionar entre o Título e Botões.<BR>
-
-8 - Selecionar o botão Adição e criar os blocos para soma.<BR>
-	8.1 - Teste a operação.<BR>
+8 - Selecionar o botão Adição e crie os blocos para soma.<BR>
+* 8.1 - Teste a operação no botão [ + ]<BR>
 
 9 - Faça o mesmo processo nos demais botões alterando somente o operador.<BR>
+* Criar ou escolher uma imagem para ser a logomarca da calculadora. Tamanho: 200x186px.<BR>
 
-9.1 - Criar ou escolher uma imagem para ser a logomarca da calculadora.<BR>
-  Tamanho: 200x186 px. <BR>
+10 - Empacotar a aplicação em HTML, no TurboWarp Packager: Site: <BR>
+* https://packager.turbowarp.org/<BR>
 
-10 - Empacotar a aplicação em HTML, no TurboWarp Packager: 	Site: https://packager.turbowarp.org/ <BR>
+11 - Compactar a pasta Calculadora. Como?<BR>
+* Clicar sobre a pasta "Calculadora" com botão direito do mouse, ir até "Enviar para", clicar em "Pasta Compactada".<BR>
 
-11 - Compactar a pasta Calculadora. Como? <BR>
-    Clicar sobre a pasta Calculadora com botão direito do mouse, ir até "Enviar para", clicar em "Pasta Compactada".
-
-12 - Enviar para dalmosilvamendes@gmail.com <BR>
+12 - Enviar a Pasta Compactada para dalmosilvamendes@gmail.com<BR>
 
 * Observação:<BR>
  
