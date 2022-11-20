@@ -39,7 +39,7 @@ Calculadora Básica IBR - Botões e Logo.
 
 9 - Faça o mesmo processo nos demais botões alterando somente o operador.<BR>
 
-9.1 - Criar ou escolhar uma imagem para ser a logomarca da calculadora.<BR>
+9.1 - Criar ou escolher uma imagem para ser a logomarca da calculadora.<BR>
   Tamanho: 200x186 px. <BR>
 
 10 - Empacotar a aplicação em HTML, no TurboWarp Packager: 	Site: https://packager.turbowarp.org/ <BR>
