@@ -12,12 +12,8 @@ Calculadora Básica IBR - Botões e Logo.
   btn-ad, btn-sub, btn-mult e btn-div. Observação: Salvar na pasta Calculadora. <BR>
   Ou Baixar no link: https://github.com/DalmoMendes/calc-ibr. <BR>
 
-3 - Abrir o scratch2.0 ou online Versão 3 e salvar o projeto na pasta Calculadora com o nome:<BR>
+3 - Abrir o scratch2.0 e salvar o projeto na pasta Calculadora com o nome:<BR>
   Calc-6C-seunome.<BR>
-	
-3.0 Na versão online você poder fazer o cadastro ou experimentar sem cadastro: <BR>
-
-* Clicar em Ideias, Experimente!<BR>
 
 3.1 Observação: Salve as alterações a cada mudança. <BR>
 3.2 apagar o ator 1: gatinho. <BR>
@@ -29,7 +25,7 @@ Calculadora Básica IBR - Botões e Logo.
 
 6 - Digitar nome da turma e alunos na base.<BR>
 
-6.1 Organizar os botões e verificar a vesualização das informações na tela.<BR>
+6.1 Organizar os botões e verificar a visualização das informações na tela.<BR>
 
 7. Criar variáveis: N1, N2 e Resultado. <BR>
 	Posicionar entre o Título e Botões.<BR>
@@ -44,7 +40,7 @@ Calculadora Básica IBR - Botões e Logo.
 
 10 - Empacotar a aplicação em HTML, no TurboWarp Packager: 	Site: https://packager.turbowarp.org/ <BR>
 
-11 - Antes de Enviar Compactar a pasta Calculadora. Como? <BR>
+11 - Compactar a pasta Calculadora. Como? <BR>
     Clicar sobre a pasta Calculadora com botão direito do mouse, ir até "Enviar para", clicar em "Pasta Compactada".
 
 12 - Enviar para dalmosilvamendes@gmail.com <BR>
